@@ -231,3 +231,24 @@ footer .copyright {
         position: static;
         height: auto;
     }
+
+    header .textos {
+        position: static;
+        margin: 100px 0;
+    }
+    header .menu {
+        text-align: center;
+    }
+    header .menu a {
+        margin: 10px 20px;
+    }
+    header .textos .nombre {
+        font-size: 30px;
+    }
+    header .textos .h3 {
+        font-size: 18px;
+    }
+    .main .acerca-de .foto {
+        width: 100%;
+        position: relative;
+    }
